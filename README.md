@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm an aspiring __full stack developer__ based in __India__. I love programming and am currently looking for opportunities. Feel Free to contact me 
 
-* 🔖 Discover my [Resume](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
+* 🔖 Discover my [Resume](https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/docs/AnneDeepaPrasanna.pdf)<br/>
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa")
 * 🔭 I’m currently working on CS50X Final project
 <p align ="center">
@@ -35,9 +35,8 @@ I'm an aspiring __full stack developer__ based in __India__. I love programming 
 </a>-->
 
 ## Tools and technologies
-
-
-
+| <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/bootstrap.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/css3.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/flask.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/linuxmint.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postgresql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postman.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/react.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/sqlite.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/ubuntu.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 <br/>
