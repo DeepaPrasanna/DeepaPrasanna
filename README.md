@@ -24,7 +24,7 @@ I'm an aspiring __full stack developer__ based in __India__. I love programming 
 
 * 🔖 Discover my [Resume](https://deepaprasanna.github.io/)<br/>
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa)
-* 🔭 I’m currently working on CS50X Final project
+* 🔭 I’m currently exploring Node,Express and MongoDb
 <p align ="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepaPrasanna&count_private=true&show_icons=true&theme=shades-of-purple" />
