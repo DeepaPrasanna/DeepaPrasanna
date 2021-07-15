@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/annedeepa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-I'm an aspiring __full stack developer__ based in __India__. I love programming and am interested to create the best and accessible web applications with enhanced user experience. Do stop by and have a look at my (portfolio)[https://anneprasanna.netlify.app/] too. 😀 
+I'm an aspiring __full stack developer__ based in __India__. I love programming and am interested to create the best and accessible web applications with enhanced user experience. Do stop by and have a look at my [portfolio](https://anneprasanna.netlify.app/) too. 😀 
 
 * 🔖 Discover my [Resume](https://deepaprasanna.github.io/resume/)<br/>
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa)
