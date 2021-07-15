@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm an aspiring __full stack developer__ based in __India__. I love programming and am currently looking for opportunities. Feel Free to contact me 
 
-* 🔖 Discover my [Resume](https://deepaprasanna.github.io/)<br/>
+* 🔖 Discover my [Resume](https://deepaprasanna.github.io/resume/)<br/>
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa)
 * 🔭 I’m currently exploring Node,Express and MongoDb
 <p align ="center">
