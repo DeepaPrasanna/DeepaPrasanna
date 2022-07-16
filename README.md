@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 I'm a  __full stack developer__ from __India__. I love programming and am interested & learning to create the best and accessible web applications with enhanced user experience. Do stop by and have a look at my [portfolio](https://anneprasanna.netlify.app/) too. 😀 
 
-- * 🔖 Discover my [Resume](https://deepaprasanna.github.io/resume/)<br/>
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa)
 * 🔭 I’m really keen to explore Next.js and Typescript
 <p align ="center">
@@ -34,9 +33,25 @@ I'm a  __full stack developer__ from __India__. I love programming and am intere
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>-->
 
-## Tools and technologies
-| <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/bootstrap.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/css3.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/flask.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/linuxmint.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postgresql.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postman.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/react.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/sqlite.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/ubuntu.svg" width=60> | <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+## Technologies/Languages
+<img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60>  
+
+
+
+## Frameworks
+ <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/bootstrap.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/flask.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/react.svg" width=60> 
+
+
+
+## Databases
+ <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postgresql.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/sqlite.svg" width=60>  
+
+
+## Tools
+ <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postman.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> 
+
+
+
 
 
 <br/>
