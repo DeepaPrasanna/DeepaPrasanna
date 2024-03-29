@@ -43,6 +43,9 @@ I'm a  __full stack developer__ from __India__. I love programming and am intere
 
 ## Frameworks
  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/bootstrap.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/flask.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/react.svg" width=60> 
+ <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/nestjs.svg" width=60> 
+ 
+ 
 
 
 
