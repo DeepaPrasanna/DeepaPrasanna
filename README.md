@@ -26,7 +26,7 @@ I'm a  __full stack developer__ from __India__. I love programming and am intere
 
 
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa)
-* 🔭 I’m really keen to explore the nuances of computer science.
+* 🔭 I’m exploring the nuances of computer science.
 <p align ="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepaPrasanna&count_private=true&show_icons=true&theme=shades-of-purple" />
@@ -38,24 +38,29 @@ I'm a  __full stack developer__ from __India__. I love programming and am intere
 
 ## Technologies/Languages
 <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60>  
+<img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/typescript.svg" width=60>  
 
 
 
 ## Frameworks
  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/bootstrap.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/flask.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/react.svg" width=60> 
  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/nestjs.svg" width=60> 
+ <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/nextjs.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/express.svg" width=60>  
  
  
 
 
 
 ## Databases
- <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postgresql.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/sqlite.svg" width=60>  
+ <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mysql.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postgresql.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/sqlite.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/neo4j.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mongodb.svg" width=60>  
 
 
 ## Tools
- <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postman.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> 
+ <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/git.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/github.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/postman.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/visualstudiocode.svg" width=60> <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/trello.svg" width=60>  
 
+
+## Others
+<img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/graphql.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/mongoose.jpg" width=120>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/prisma.svg" width=60>  
 
 
 
