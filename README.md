@@ -37,8 +37,7 @@ I'm a  __full stack developer__ from __India__. I love programming and am intere
 </a>-->
 
 ## Technologies/Languages
-<img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60>  
-<img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/typescript.svg" width=60>  
+<img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/typescript.svg" width=60>  
 
 
 
