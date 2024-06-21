@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello 👋</h1>
 
-<p align="center">
-  <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "center">
-  <a href="mailto:anneraj73@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-  <a href="https://www.linkedin.com/in/annedeepa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
-I'm a  __software engineer__ from __India__. I love programming and love to create the best and accessible web applications with enhanced user experience.
+<div align="left">
+  <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "left">
+  <p> I'm a software engineer from India. I love programming and love to create the best and accessible web applications with enhanced user experience.</p>
+<!--   <a href="mailto:anneraj73@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href="https://www.linkedin.com/in/annedeepa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+</div>
+
+
 
  <!-- Do stop by and have a look at my [portfolio](https://anneprasanna.netlify.app/) too. 😀 -->
 
@@ -35,6 +37,19 @@ I'm a  __software engineer__ from __India__. I love programming and love to crea
 <!--<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>-->
+
+## Open Source Contributions
+#### [Unkey](https://www.unkey.com/)
+* [Reset form after submission](https://github.com/unkeyed/unkey/pull/1703)
+* [Fix github clone URL](https://github.com/unkeyed/unkey/pull/1740)
+
+#### [Freecodecamp](https://www.freecodecamp.org/)
+* [Allow only positive numbers for decimal to binary conversion](https://github.com/freeCodeCamp/freeCodeCamp/pull/54708)
+* [Remove unused CSS rules](https://github.com/freeCodeCamp/freeCodeCamp/pull/54948)
+* [Add review lessons for functions](https://github.com/freeCodeCamp/freeCodeCamp/pull/55127)
+* [Add review lessons for arrays](https://github.com/freeCodeCamp/freeCodeCamp/pull/55012)
+* [Fix typo](https://github.com/freeCodeCamp/freeCodeCamp/pull/46927)
+
 
 ## Technologies/Languages
 <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/typescript.svg" width=60>  
