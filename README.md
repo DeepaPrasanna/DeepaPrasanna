@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <div align="left">
-  <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "left">
+  <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "200" height = "200" align = "left">
   <p> I'm a software engineer from India. I love programming and love to create the best and accessible web applications with enhanced user experience.</p>
 <!--   <a href="mailto:anneraj73@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/annedeepa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
@@ -29,14 +29,19 @@ Here are some ideas to get you started:
 
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa)
 * 🔭 I’m exploring the nuances of computer science.
-<p align ="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <p align ="center"> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepaPrasanna&count_private=true&show_icons=true&theme=shades-of-purple" />
-</a>
-  </p>
+</a> -->
+<!--   </p> -->
 <!--<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>-->
+
+
+</br>
+</br>
+
 
 ## Open Source Contributions
 #### [Unkey](https://www.unkey.com/)
