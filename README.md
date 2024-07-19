@@ -44,7 +44,11 @@ Here are some ideas to get you started:
 
 
 ## Open Source Contributions
+#### [Cal.com](https://cal.com/)
+* [Fix the system default theme](https://github.com/calcom/cal.com/pull/15291)
+
 #### [Unkey](https://www.unkey.com/)
+* [Prevent copyButton from shrinking](https://github.com/unkeyed/unkey/pull/1894)
 * [Reset form after submission](https://github.com/unkeyed/unkey/pull/1703)
 * [Fix github clone URL](https://github.com/unkeyed/unkey/pull/1740)
 
