@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 * [Fix the system default theme](https://github.com/calcom/cal.com/pull/15291)
 
 #### [Unkey](https://www.unkey.com/)
+* [Add flags to pnpm local and document it](https://github.com/unkeyed/unkey/pull/1943)
 * [Add error handling for docker service startup failure](https://github.com/unkeyed/unkey/pull/1880)
 * [Prevent copyButton from shrinking](https://github.com/unkeyed/unkey/pull/1894)
 * [Reset form after submission](https://github.com/unkeyed/unkey/pull/1703)
