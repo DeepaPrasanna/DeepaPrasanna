@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-
-#### [Open Source Contributions](https://annee.vercel.app/oss)
-
+<div align="left">
+### [Open Source Contributions](https://annee.vercel.app/oss)
+</div>
 
 <!-- ## Technologies/Languages
 <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/typescript.svg" width=60>  
