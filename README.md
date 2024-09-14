@@ -43,25 +43,7 @@ Here are some ideas to get you started:
 </br>
 
 
-## Open Source Contributions
-#### [Cal.com](https://cal.com/)
-* [Fix the system default theme](https://github.com/calcom/cal.com/pull/15291)
-
-#### [Unkey](https://www.unkey.com/)
-* [Fix the long permission names which pushes the settings off the screen](https://github.com/unkeyed/unkey/pull/2071)
-* [Handle long permission names](https://github.com/unkeyed/unkey/pull/1893)
-* [Add flags to pnpm local and document it](https://github.com/unkeyed/unkey/pull/1943)
-* [Add error handling for docker service startup failure](https://github.com/unkeyed/unkey/pull/1880)
-* [Prevent copyButton from shrinking](https://github.com/unkeyed/unkey/pull/1894)
-* [Reset form after submission](https://github.com/unkeyed/unkey/pull/1703)
-* [Fix github clone URL](https://github.com/unkeyed/unkey/pull/1740)
-
-#### [Freecodecamp](https://www.freecodecamp.org/)
-* [Allow only positive numbers for decimal to binary conversion](https://github.com/freeCodeCamp/freeCodeCamp/pull/54708)
-* [Remove unused CSS rules](https://github.com/freeCodeCamp/freeCodeCamp/pull/54948)
-* [Add review lessons for functions](https://github.com/freeCodeCamp/freeCodeCamp/pull/55127)
-* [Add review lessons for arrays](https://github.com/freeCodeCamp/freeCodeCamp/pull/55012)
-* [Fix typo](https://github.com/freeCodeCamp/freeCodeCamp/pull/46927)
+## [Open Source Contributions](https://annee.vercel.app/oss)
 
 
 <!-- ## Technologies/Languages
