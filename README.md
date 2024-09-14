@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 
 * 📫 Contact me [@Anne Deepa Prasanna](https://www.linkedin.com/in/annedeepa)
+* 🚀 Check Open Source Contributions [here](https://annee.vercel.app/oss)
 * 🔭 I’m exploring the nuances of computer science.
 <!-- <p align ="center"> -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,9 +43,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<div align="left">
-### [Open Source Contributions](https://annee.vercel.app/oss)
-</div>
 
 <!-- ## Technologies/Languages
 <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/c.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/html5.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/javascript.svg" width=60>   <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/python.svg" width=60>  <img src="https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/typescript.svg" width=60>  
